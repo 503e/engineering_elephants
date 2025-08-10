@@ -1,0 +1,2 @@
+pybricks==3.6.1
+pybricksdev==1.2.0
