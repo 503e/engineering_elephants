@@ -34,6 +34,8 @@ pip install -r requirements.txt
 
 ## 3. Running the Project
 
+In order to run PyBrick programs, Pybrick firmware must first be installed (see below), and the Spike hub must be turned on. The following two methods can be used to connect and run the program using bluetooth. Once the program is run on the hub, you can re-run by short-pressing the hub button. 
+
 ### A. From the Command Line
 
 ```bash
