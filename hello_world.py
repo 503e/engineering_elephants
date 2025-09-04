@@ -17,10 +17,9 @@ prime_hub.speaker.beep(85, 2000)
 prime_hub.speaker.beep(185, 1000)
 
 my_motor.run_time(500, 2000)
-lg_motor.run(1000)
-wait(3000)
+lg_motor.run(-2000)
+wait(5500)
+lg_motor.run(500)
+wait(2000)
 lg_motor.stop()
-
-
-
 print('Hello, Pybricks!')
