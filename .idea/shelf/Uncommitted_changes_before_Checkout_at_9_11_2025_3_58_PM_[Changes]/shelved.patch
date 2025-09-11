@@ -1,0 +1,20 @@
+Index: hello_world.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>from pybricks.hubs import PrimeHub\r\nfrom pybricks.tools import wait\r\n\r\n# Set up all devices.\r\nprime_hub = PrimeHub()\r\n\r\n# The main program starts here.\r\nprime_hub.display.number(11)\r\nprime_hub.speaker.beep(150, 1250)\r\nwait(1000)\r\nprint('Hello, Pybricks!')\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/hello_world.py b/hello_world.py
+--- a/hello_world.py	(revision daa4a96c322092ddabeae85f003f50c1664867ab)
++++ b/hello_world.py	(date 1757631366885)
+@@ -5,7 +5,7 @@
+ prime_hub = PrimeHub()
+ 
+ # The main program starts here.
+-prime_hub.display.number(11)
+-prime_hub.speaker.beep(150, 1250)
++prime_hub.display.text("Hello Kyan")
++prime_hub.display.
+ wait(1000)
+ print('Hello, Pybricks!')
