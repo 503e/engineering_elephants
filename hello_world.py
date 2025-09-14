@@ -22,7 +22,7 @@ blink_red_light()
 # Initialize the motors connected to Port A and Port B
 # Adjust Direction.CLOCKWISE or Direction.COUNTERCLOCKWISE based on your robot's build
 left_motor = Motor(Port.D, Direction.COUNTERCLOCKWISE)
-right_motor = Motor(Port.B, Direction.COUNTERCLOCKWISE")
+right_motor = Motor(Port.B, Direction.COUNTERCLOCKWISE)
 
 # Initialize the drive base
 # Parameters: left_motor, right_motor, wheel_diameter (mm), axle_track (mm)
@@ -30,7 +30,7 @@ right_motor = Motor(Port.B, Direction.COUNTERCLOCKWISE")
 robot = DriveBase(left_motor, right_motor, wheel_diameter=56, axle_track=112)
 
 # 1. Drive forward for a certain distance
-robot.drive(5000, 500) # Drive 200 mm forward
+robot.drive(0,500) # Drive 200 mm forward
 
 
 wait(10000)
