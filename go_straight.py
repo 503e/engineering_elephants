@@ -14,3 +14,4 @@ robot = DriveBase(left_motor, right_motor, wheel_diameter=56, axle_track=112)
 
 robot.use_gyro(True)
 robot.straight(distance=1000, then=Stop.HOLD, wait=True)
+robot.arc(500, angle=90, then=Stop.HOLD, wait=True)
