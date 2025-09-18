@@ -1,25 +1,11 @@
 from pybricks.hubs import PrimeHub
 from pybricks.tools import wait
-from pybricks.pupdevices import Motor
-from pybricks.parameters import Port
-
 
 # Set up all devices.
 prime_hub = PrimeHub()
 
-# Initialize a motor on Port A
-my_motor = Motor(Port.A)
-lg_motor = Motor(Port.C)
-
 # The main program starts here.
-prime_hub.display.number(6)
-prime_hub.speaker.beep(85, 2000)
-prime_hub.speaker.beep(185, 1000)
-
-my_motor.run_time(500, 2000)
-lg_motor.run(-2000)
-wait(5500)
-lg_motor.run(500)
-wait(2000)
-lg_motor.stop()
+prime_hub.display.number(11)
+prime_hub.speaker.beep(150, 1250)
+wait(1000)
 print('Hello, Pybricks!')
