@@ -26,7 +26,7 @@ while True:
     throttle_input = controller.joystick_left()[1]  # Left joystick Y-axis
     motor_input = controller.joystick_right()[1]  # Right joystick Y-axis
     #print("steering:", steering_input, "throttle:", throttle_input, "motor:", motor_input)
-    throttle = throttle_input*5
+    throttle = throttle_input*-5
     buttonvolose = controller.buttons.pressed()
     if Button.B in buttonvolose:
         print("B pressed")
