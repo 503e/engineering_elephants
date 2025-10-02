@@ -34,7 +34,7 @@ while True:
 
 
     robot.drive(throttle, steering_input)
-    motor_input = motor_input*3
+    motor_input = motor_input*5
     main_motor.run(motor_input)
 
 
