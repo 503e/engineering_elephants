@@ -5,7 +5,7 @@ selected = hub_menu("1", "2", "3")
 
 # Based on the selection, run a program.
 if selected == "1":
-    import hello_world
+    import mission_01
 elif selected == "2":
     import sound
 elif selected == "3":
