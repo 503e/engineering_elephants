@@ -22,4 +22,11 @@ main_motor.run_angle(600, -800, then=Stop.HOLD, wait=True)
 main_motor.run_until_stalled(-10000, then=Stop.COAST, duty_limit=15)
 
 
-robot.straight(distance=600, wait=True)
+robot.straight(distance=200, wait=True)
+
+main_motor.run_angle(600, 50, then=Stop.HOLD, wait=True)
+
+robot.straight(distance=-175, wait=True)
+main_motor.run_angle(600, -100, then=Stop.HOLD, wait=True)
+robot.settings(straight_speed=500)
+robot.straight(distance=-1500, wait=True)
