@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26e921b7-e6c6-41fc-a27c-4e45f47d8f70" name="Changes" comment="Quintens changes">
-      <change afterPath="$PROJECT_DIR$/mission_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mission_02.py" afterDir="false" />
+    <list default="true" id="26e921b7-e6c6-41fc-a27c-4e45f47d8f70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/mission_02_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mission_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thesandmission.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Menu_Control.py" beforeDir="false" afterPath="$PROJECT_DIR$/Menu_Control.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xBox_Controls.py" beforeDir="false" afterPath="$PROJECT_DIR$/xBox_Controls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/mission_01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +45,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/503e/engineering_elephants.git&quot;,
