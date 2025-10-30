@@ -24,7 +24,7 @@ robot.straight(distance=190, then=Stop.HOLD, wait=True) # push movement to raise
 robot.straight(distance=-250, then=Stop.HOLD, wait=True) #reverse to leave obstacles 9 and 10
 robot.turn(55, wait=True) #right turn to begin approach for final pull on back of obstacle 10
 robot.straight(distance=455, then=Stop.HOLD, wait=True) #straight approach to position toward the back of obstacle 10
-robot.turn(-80, wait=True) #turn to align hook to pull loop from obstacle 10
-robot.straight(distance=125, then=Stop.HOLD, wait=True) #small movement forward to engage hook and loop
-robot.turn(30, wait=True)#right turm to pull loop on obsticle 10
-robot.arc(angle=50, radius=-900)#returm home with obsticle 10
+robot.turn(-84, wait=True) #turn to align hook to pull loop from obstacle 10
+robot.straight(distance=135, then=Stop.HOLD, wait=True) #small movement forward to engage hook and loop
+robot.turn(40, wait=True)#right turm to pull loop on obsticle 10
+robot.arc(angle=50, radius=-750)#returm home with obsticle
