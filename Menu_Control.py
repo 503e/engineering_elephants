@@ -5,9 +5,9 @@ selected = hub_menu("1", "2", "3", "4", "X")
 
 # Based on the selection, run a program.
 if selected == "1":
-    import mission_01
-elif selected == "2":
     import thesandmission
+elif selected == "2":
+      import mission_01
 elif selected == "3":
     import mission_03
 elif    selected == "4":

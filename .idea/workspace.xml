@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26e921b7-e6c6-41fc-a27c-4e45f47d8f70" name="Changes" comment="updates including menu update for 4 mission runs">
+    <list default="true" id="26e921b7-e6c6-41fc-a27c-4e45f47d8f70" name="Changes" comment="updates including menu update for 4 mission runs FINAL FOR COMP">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Menu_Control.py" beforeDir="false" afterPath="$PROJECT_DIR$/Menu_Control.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission_02_final.py" beforeDir="false" afterPath="$PROJECT_DIR$/mission_02_final.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761187359153</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updates including menu update for 4 mission runs FINAL FOR COMP">
+      <option name="closed" value="true" />
+      <created>1761784813599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761784813600</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Quintens changes" />
     <MESSAGE value="updates including menu update for 4 mission runs" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates including menu update for 4 mission runs" />
+    <MESSAGE value="updates including menu update for 4 mission runs FINAL FOR COMP" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates including menu update for 4 mission runs FINAL FOR COMP" />
   </component>
 </project>
