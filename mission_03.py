@@ -12,6 +12,7 @@ left_motor = Motor(Port.D, Direction.COUNTERCLOCKWISE)
 right_motor = Motor(Port.B, Direction.CLOCKWISE)
 main_motor = Motor(Port.F, Direction.CLOCKWISE)
 robot = DriveBase(left_motor, right_motor, wheel_diameter=56, axle_track=112)
+DriveBase.settings()
 robot.use_gyro(True)
 main_motor.run_angle(600, -1000, then=Stop.HOLD, wait=True)#move attachment down
 robot.straight(distance=-700, then=Stop.HOLD, wait=True)
