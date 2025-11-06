@@ -7,7 +7,6 @@
     <list default="true" id="26e921b7-e6c6-41fc-a27c-4e45f47d8f70" name="Changes" comment="Adding mission 08 (gear shooter)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mission_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/mission_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/mission_07.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +34,12 @@
         </map>
       </branch-storage>
     </favorite-branches>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="Quinten" />
@@ -156,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762400945727</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adding mission 08 (gear shooter)">
+      <option name="closed" value="true" />
+      <created>1762405961843</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762405961843</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
