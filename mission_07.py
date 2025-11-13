@@ -13,13 +13,15 @@ main_motor = Motor(Port.F, Direction.CLOCKWISE)
 robot = DriveBase(left_motor, right_motor, wheel_diameter=56, axle_track=112)
 robot.use_gyro(True)
 robot.turn(35)
+main_motor.run_angle(600, -825, then=Stop.HOLD, wait=False)#move attachment down
+robot.settings(straight_speed=400,straight_acceleration=300, turn_rate=500, turn_acceleration=350)#adjusts the speed that the robot runs at
 robot.arc(radius=1250, angle=-35, wait=True)
-main_motor.run_angle(600, -825, then=Stop.HOLD, wait=True)#move attachment down
+
 robot.turn(-20)
 robot.straight(-150,wait=True)
 robot.turn(-40)
 main_motor.run_angle(600, 825, then=Stop.HOLD, wait=True)
 robot.turn(-135)
-robot.arc(radius=-1425, angle=-35, wait=True)
-robot.turn(60)
+robot.arc(radius=-1425, angle=-25, wait=True)
+robot.turn(70)
 robot.straight(-200)
