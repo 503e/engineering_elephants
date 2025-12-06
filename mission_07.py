@@ -25,3 +25,4 @@ robot.turn(-135)
 robot.arc(radius=-1425, angle=-25, wait=True)
 robot.turn(70)
 robot.straight(-200)
+import Menu_Control

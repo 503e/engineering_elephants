@@ -14,3 +14,4 @@ main_motor2.run_angle(10000, 55, then=Stop.HOLD, wait=True)
 main_motor2.run_angle(10000, -55, then=Stop.HOLD, wait=True)
 main_motor2.run_angle(10000, 55, then=Stop.HOLD, wait=True)
 main_motor2.run_angle(10000, -55, then=Stop.HOLD, wait=True)
+import Menu_Control

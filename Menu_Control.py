@@ -9,7 +9,7 @@ if selected == "1":
 elif selected == "2":
       import mission_01
 elif selected == "3":
-    import mission_03
+    import Lift_cross
 elif    selected == "4":
     import mission_02_final
 elif    selected == "5":
@@ -18,3 +18,5 @@ elif    selected == "6":
     import mission_08
 elif selected == "X":
     import xBox_Controls
+
+

@@ -21,3 +21,4 @@ robot.arc(radius=-50, angle=-60, wait=True)
 robot.straight(distance=-800, then=Stop.HOLD, wait=True)
 #robot.straight(distance=-500, then=Stop.HOLD, wait=True)
 #robot.arc(500, angle=90, then=Stop.HOLD, wait=True)
+import Menu_Control

@@ -28,3 +28,4 @@ robot.turn(-84, wait=True) #turn to align hook to pull loop from obstacle 10
 robot.straight(distance=135, then=Stop.HOLD, wait=True) #small movement forward to engage hook and loop
 robot.turn(40, wait=True)#right turm to pull loop on obsticle 10
 robot.arc(angle=50, radius=-750)#returm home with obsticle
+import Menu_Control
