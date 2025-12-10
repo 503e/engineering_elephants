@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26e921b7-e6c6-41fc-a27c-4e45f47d8f70" name="Changes" comment="Adjusted the speed of mission 3 to shorten run time.">
+    <list default="true" id="26e921b7-e6c6-41fc-a27c-4e45f47d8f70" name="Changes" comment="UPdated menu for final tournament 12-6-2025">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Menu_Control.py" beforeDir="false" afterPath="$PROJECT_DIR$/Menu_Control.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/mission_07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lift_cross.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lift_cross.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thesandmission.py" beforeDir="false" afterPath="$PROJECT_DIR$/thesandmission.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "#2 on Luke",
+    "git-widget-placeholder": "Luke",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/pgall/OneDrive/Documents/GitHub/engineering_elephants",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
@@ -95,7 +96,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-b030e9c4a83c-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.26199.168" />
+        <option value="bundled-python-sdk-f69e5c277ee4-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
@@ -179,7 +180,23 @@
       <option name="project" value="LOCAL" />
       <updated>1762407332526</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Adjusted the speed of mission 3 to shorten run time.">
+      <option name="closed" value="true" />
+      <created>1764979387104</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764979387104</updated>
+    </task>
+    <task id="LOCAL-00011" summary="UPdated menu for final tournament 12-6-2025">
+      <option name="closed" value="true" />
+      <created>1764979419104</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764979419104</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +217,7 @@
     <MESSAGE value="Adding mission 07 (heavy lift)" />
     <MESSAGE value="Adding mission 08 (gear shooter)" />
     <MESSAGE value="Adjusted the speed of mission 3 to shorten run time." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjusted the speed of mission 3 to shorten run time." />
+    <MESSAGE value="UPdated menu for final tournament 12-6-2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPdated menu for final tournament 12-6-2025" />
   </component>
 </project>

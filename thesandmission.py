@@ -33,4 +33,3 @@ robot.straight(distance=-250, wait=True)
 robot.settings(straight_speed=750, straight_acceleration=600, turn_rate=100, turn_acceleration=100)
 robot.straight(distance=750, wait=True)
 robot.settings(straight_speed=200, straight_acceleration=200, turn_rate=150, turn_acceleration=150)
-import Menu_Control

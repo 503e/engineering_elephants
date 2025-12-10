@@ -44,5 +44,5 @@ robot.straight(distance=100, wait=True)
 robot.turn(angle=-45, wait=True)
 robot.straight(distance=-600, wait=True)
 robot.arc(radius=-400, angle=-80, wait=True)
-robot.straight(distance=-450, wait=True)
+robot.straight(distance=-650, wait=True)
 import Menu_Control
